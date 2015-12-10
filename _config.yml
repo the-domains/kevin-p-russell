@@ -1,0 +1,28 @@
+name: Kevin P. Russell
+favicon: null
+layout_spectrum: 0.47534632100723684
+typography_spectrum: 0.10863244067877531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07954648812301457
+  lightness: 0.5390344180632383
+  saturation: 0.7535882922820747
+  rhythmicContrast: 0.4238892968278378
+purpose: []
