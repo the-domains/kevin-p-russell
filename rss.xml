@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Kevin P. Russell]]></title>
         <description><![CDATA[Kevin P. Russell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kevin-p-russell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 03:51:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 03:55:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kevin-p-russell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two Big Ears]]></title>
+            <description><![CDATA[<article><h1>Two Big Ears</h1><p>In the Eyes of the Animal is the latest installation by Marshmallow Laser Feast, commissioned by the AND Festival and set in Grizedale Forest, the Lake District forest in the UK Powered by 3Dception, this installation delivers an impeccably immersive audio-visual extravaganza that takes visitors on a fascinating journey and allows them to fly above the forest canopy, come face-to-face with hi-definition critters and embody various animals as they traverse the Grizedale landscape.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5e352a49e75324a8ea3d09bef7c58882667cd4f.png"></article>]]></description>
+            <link>http://twobigears.com/</link>
+            <guid isPermaLink="false">2c946f8d-70f3-4ae2-a506-13c8357cb794</guid>
+            <pubDate>Mon, 21 Dec 2015 03:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media1.gameinformer.com/filestorage/CommunityServer.Components.SiteFiles/imagefeed/featured/vr0903975441/aacov_273_l_610.jpg">]]></description>
+            <link>https://thegrid.ai/kevin-p-russell/22acab47-bba0-45c8-9c1e-5ad110b677ed/index.html</link>
+            <guid isPermaLink="false">22acab47-bba0-45c8-9c1e-5ad110b677ed</guid>
+            <pubDate>Mon, 21 Dec 2015 03:53:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.wired.com/wp-content/uploads/2015/11/StarTrekFEATURE-582x388.jpg">]]></description>
-            <link>undefined4ff5bd0c-e9ac-4227-9e20-c60818179613/index.html</link>
+            <link>https://thegrid.ai/kevin-p-russell/4ff5bd0c-e9ac-4227-9e20-c60818179613/index.html</link>
             <guid isPermaLink="false">4ff5bd0c-e9ac-4227-9e20-c60818179613</guid>
             <pubDate>Mon, 21 Dec 2015 03:51:44 GMT</pubDate>
         </item>
